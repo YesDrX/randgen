@@ -1,0 +1,1 @@
+invCdfGaussian	randgen/inverseCdf.html#invCdfGaussian,float,float,float	inverseCdf: invCdfGaussian(mu = 0.0; sigma = 1.0; prob = 0.5): float	

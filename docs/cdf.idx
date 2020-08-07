@@ -1,0 +1,1 @@
+cdfGaussian	randgen/cdf.html#cdfGaussian,float,float,float	cdf: cdfGaussian(mu = 0.0; sigma = 1.0; x = 0.0): float	

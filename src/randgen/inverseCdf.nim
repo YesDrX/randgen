@@ -1,6 +1,6 @@
 import math
 
-proc invCdfGaussian(mu = 0.0, sigma = 1.0, prob = 0.5): float=
+proc invCdfGaussian*(mu = 0.0, sigma = 1.0, prob = 0.5): float=
   ##
   ## Algorithm: Peter J. Acklam 
   ## Link: An algorithm for computing the inverse normal cumulative distribution function, http://home.online.no/~pjacklam/notes/invnorm/
