@@ -346,8 +346,9 @@ proc randPoisson*(lambda = 1.0): int=
   return k - 1  
 
 when isMainModule:
-  # discard initRand(100)
-  randomize()
+  discard initRand(100)
+  # randomize()
+  echo randGaussian()
   # echo randGaussian(0.0, 1.0, true)
   # echo randGaussianTanh()
   ## echo randExponential()
@@ -364,5 +365,5 @@ when isMainModule:
   # echo randLogistic()
   # echo randWeibull()
   # echo randPoisson(100.0)
-  echo randBinomial(0.6, 100)
+  # echo randBinomial(0.6, 100)
   # echo randGaussianTrunc(0.0, 1.0, -2.0, 2.0)
