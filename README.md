@@ -1,3 +1,3 @@
 # randgen
 
-[Documentaion](https://yesdrx.github.io/randgen/docs/)
+[Documentaion](https://yesdrx.github.io/randgen/)
