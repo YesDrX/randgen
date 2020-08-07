@@ -1,3 +1,5 @@
 import randgen/distributions
+import randgen/cdf
 
-export distributions
+export distributions,
+       cdf
